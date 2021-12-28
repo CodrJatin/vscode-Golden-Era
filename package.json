@@ -1,0 +1,21 @@
+{
+    "name": "golden-era",
+    "displayName": "Golden Era",
+    "description": "Golden theme for developer's",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Golden Era",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Golden Era-color-theme.json"
+            }
+        ]
+    }
+}
