@@ -27,7 +27,6 @@
 		"sideBar.foreground": "#ffc410",
 		"sideBarTitle.foreground": "#ffc410",
 		// menubar
-		"menu.background": "#193549",
 		"menubar.selectionForeground": "#ffc410",
 		"menubar.selectionBackground": "#193549",
 		"menubar.selectionBorder": "#ffc410",
