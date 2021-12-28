@@ -1,7 +1,7 @@
 {
     "name": "golden-era",
     "displayName": "Golden Era",
-    "description": "Golden theme for developer's",
+    "description": "Golden theme for HTML, CSS and JavaScript",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
