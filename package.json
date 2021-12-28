@@ -4,11 +4,12 @@
     "description": "Golden theme for HTML, CSS and JavaScript",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
     ],
+    "publisher": "GoldenEra",
     "license": "MIT",
     "keywords": [
         "themes",
