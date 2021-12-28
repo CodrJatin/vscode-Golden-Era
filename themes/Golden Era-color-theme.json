@@ -8,7 +8,7 @@
 		"editorCursor.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
 		"editor.lineHighlightBorder": "#4f6b80",
-		"editorBracketMatch.background": "#8e979e",
+		"editorBracketMatch.background": "#4f6b80",
 		// error
 		"errorForeground": "#ff0000",
 		"editorError.border": "#ff0000",
