@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "golden-era"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Golden Era
+## Golden Era is a VS Code theme 
+`Golden Era` is a VS code Theme for web developer's and Programmer's
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* This theme is awesome and a great combination of golden yellow and dark blue color.
+* This theme looks professional and let user work for a long period of time.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### If you have any Querry on this theme -
+#### Mail Me on `jatinpersonalid@gmail.com`
 
-**Enjoy!**
+**Enjoy! The theme**

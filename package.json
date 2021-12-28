@@ -9,6 +9,17 @@
     "categories": [
         "Themes"
     ],
+    "license": "MIT",
+    "keywords": [
+        "themes",
+        "vs code theme",
+        "dark theme",
+        "golden era",
+        "gold",
+        "era",
+        "theme",
+        "color theme"
+    ],
     "contributes": {
         "themes": [
             {
