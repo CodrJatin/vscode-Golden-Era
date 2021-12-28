@@ -8,6 +8,7 @@
 		"editorCursor.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
 		"editor.lineHighlightBorder": "#4f6b80",
+		"editorBracketMatch.background": "#8e979e",
 		// error
 		"errorForeground": "#ff0000",
 		"editorError.border": "#ff0000",
@@ -16,7 +17,6 @@
 		"activityBar.background": "#193549",
 		"activityBar.foreground": "#ffc410",
 		"window.activeBorder": "#ffc410",
-		"editorBracketMatch.background": "#193549",
 		// statusbar
 		"statusBar.background": "#193549",
 		"statusBar.foreground": "#ffc410",
