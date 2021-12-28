@@ -5,10 +5,12 @@
 		// editor
 		"editor.background": "#193549",
 		"editor.foreground": "#00ffff",
-		"sideBarTitle.foreground": "#ffc410",
 		"editorCursor.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
 		"editor.lineHighlightBorder": "#4f6b80",
+		// error
+		"errorForeground": "#ff0000",
+		"editorError.border": "#ff0000",
 		// activity bar badge
 		"activityBarBadge.background": "#fff",
 		"activityBar.background": "#193549",
@@ -23,6 +25,7 @@
 		"sideBar.background": "#091f2f",
 		"sideBar.border": "#ffc410",
 		"sideBar.foreground": "#ffc410",
+		"sideBarTitle.foreground": "#ffc410",
 		// menubar
 		"menu.background": "#193549",
 		"menubar.selectionForeground": "#ffc410",
@@ -57,7 +60,8 @@
 		"editorLineNumber.foreground": "#ffc410",
 		"editorLineNumber.activeForeground": "#ffc410",
 		// dropdown background
-		"dropdown.background": "#ff0000"
+		"dropdown.background": "#091f2f",
+		"dropdown.foreground": "#ffc410"
 	},
 	"tokenColors": [
 		{
