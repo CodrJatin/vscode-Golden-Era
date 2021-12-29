@@ -9,10 +9,22 @@
     "editor.lineHighlightBackground": "#091f2f",
     "editor.lineHighlightBorder": "#4f6b80",
     "editorBracketMatch.background": "#4f6b80",
+    "editor.selectionBackground": "#264f78",
+    "editor.inactiveSelectionBackground": "#3a3d41",
+    "editorWhitespace.foreground": "#ffffff34",
+    "editor.selectionHighlightBackground": "#091f2f",
+    "editor.selectionHighlightBorder": "#ffc41080",
+    "editor.findMatchBackground": "#ffc4103e",
+    "editor.findMatchBorder": "#5e5e5e",
+    "editor.findMatchHighlightBackground": "#ffc4103e",
+    "editor.rangeHighlightBackground": "#091f2f",
+    "editorLineNumber.foreground": "#ffc410",
+    "editorLineNumber.activeForeground": "#21ECF3",    
     // error
     "errorForeground": "#ff0000",
     "editorError.border": "#ff0000",
-    // activity bar badge
+    // activity bar
+    "activityBarBadge.foreground": "#ffc410",
     "activityBarBadge.background": "#fff",
     "activityBar.background": "#193549",
     "activityBar.foreground": "#ffc410",
@@ -55,9 +67,6 @@
     "tab.activeBorder": "#ffc410",
     "tab.hoverBorder": "#ffc410",
     "tab.activeForeground": "#ffc410",
-    // editor line number
-    "editorLineNumber.foreground": "#ffc410",
-    "editorLineNumber.activeForeground": "#21ECF3",
     // dropdown background
     "dropdown.background": "#091f2f",
     "dropdown.foreground": "#ffc410"
