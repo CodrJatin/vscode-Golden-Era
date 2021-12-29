@@ -6,6 +6,7 @@
     "editor.background": "#193549",
     "editor.foreground": "#00ffff",
     "editorCursor.foreground": "#ffc410",
+    "editor.hoverHighlightBackground": "#091f2f",
     "editor.lineHighlightBackground": "#091f2f",
     "editor.lineHighlightBorder": "#4f6b80",
     "editorBracketMatch.background": "#4f6b80",
