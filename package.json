@@ -1,33 +1,43 @@
 {
     "name": "golden-era",
     "displayName": "Golden Era",
-    "description": "Golden theme for HTML, CSS and JavaScript",
+    "description": "A Great theme for Devlopers and Programmers",
     "version": "0.0.1",
+    "publisher": "Codr Jatin",
+    "author": {
+        "name": "Codr Jatin",
+        "email": "jatinpersonalid@gmail.com"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
     ],
-    "publisher": "CodrJatin",
     "license": "MIT",
     "keywords": [
         "themes",
         "vs code theme",
         "dark theme",
+        "dark",
+        "Golden",
         "golden era",
         "gold",
         "era",
         "theme",
-        "color theme"
+        "new theme",
+        "color theme",
+        "popular theme"
     ],
     "contributes": {
         "themes": [
             {
                 "label": "Golden Era",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Golden Era-color-theme.json"
+                "path": "./themes/Golden-Era-color-theme.json"
             }
         ]
     }
+
+    
 }
