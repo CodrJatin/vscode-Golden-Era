@@ -4,6 +4,7 @@
     "description": "A Great theme for Devlopers and Programmers",
     "version": "0.2.4",
     "publisher": "CodrJatin",
+    "icon": "images/logo.jpg",
     "author": {
         "name": "Codr Jatin",
         "email": "jatinpersonalid@gmail.com"
