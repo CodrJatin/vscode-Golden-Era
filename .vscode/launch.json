@@ -9,10 +9,10 @@
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
-            // "repository":{
-            //     "type": "git",
-            //     "url": "https://github.com/Codr-J/Golden-Era.git",
-            // },
+            "repository":{
+                "type": "git",
+                "url": "https://github.com/Codr-J/Golden-Era.git",
+            },
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],

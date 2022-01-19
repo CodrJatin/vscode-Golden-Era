@@ -16,7 +16,7 @@
         "Themes",
         "Other"
     ],
-    "icon": "images/logo.jpg",
+    "icon": "https://github.com/Codr-J/Golden-Era/blob/master/images/logo.jpg",
     "contributes": {
         "themes": [
             {
@@ -28,6 +28,10 @@
     },
     "bugs": {
         "email": "jatinpersonalid@gmail.com"
+    },
+    "repository":{
+        "type": "git",
+        "url": "https://github.com/Codr-J/Golden-Era.git"
     },
     "homepage": "",
     "keywords": [
