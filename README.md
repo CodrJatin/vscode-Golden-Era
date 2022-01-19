@@ -12,4 +12,4 @@
 [CodrJatin]()
 
 
-*Copyright (c) 2022 Pawel Borkar*
+*Copyright (c) 2022 Codr-Jatin*
