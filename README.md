@@ -8,4 +8,8 @@
 ### If you have any Querry on this theme -
 #### Mail Me on `jatinpersonalid@gmail.com`
 
-**Enjoy! The theme**
+## Author
+[CodrJatin]()
+
+
+*Copyright (c) 2022 Pawel Borkar*

@@ -3,8 +3,8 @@
     "displayName": "Golden Era",
     "description": "A Great theme for Devlopers and Programmers",
     "version": "0.2.4",
+    "license": "MIT",
     "publisher": "CodrJatin",
-    "icon": "images/logo.jpg",
     "author": {
         "name": "Codr Jatin",
         "email": "jatinpersonalid@gmail.com"
@@ -13,9 +13,23 @@
         "vscode": "^1.0.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
-    "license": "MIT",
+    "icon": "images/logo.jpg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Golden Era",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Golden-Era-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "email": "jatinpersonalid@gmail.com"
+    },
+    "homepage": "",
     "keywords": [
         "themes",
         "vs code theme",
@@ -29,14 +43,5 @@
         "new theme",
         "color theme",
         "popular theme"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Golden Era",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Golden-Era-color-theme.json"
-            }
-        ]
-    }
+    ]
 }
