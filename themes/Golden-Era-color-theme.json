@@ -1,31 +1,47 @@
 {
-  "name": "Golden Era ^0.0.2",
-  "type": "dark",
-  "colors": {
-    // 
-    // Editor
+	"name": "Golden Era ^0.0.2",
+	"type": "dark",
+	"colors": {
+	  // 
+	  // Editor
     // 
     "foreground": "#fff",
     "editor.foreground": "#ffffff",
+    // "editor.background": "#193549",
+    "editor.background": "#091f2f",
     "focusBorder": "#ffc410",
     "selection.background": "#68b1ff72",
-    "editor.background": "#193549",
+	"icon.foreground": "#ffc410",
+	"editor.lineHighlightBackground": "#193549",
+	"editor.lineHighlightBorder": "#193549",
+    "editorWhitespace.foreground": "#ffffff31",
     // 
-    // Editor Line Number
+    // Line Number
     // 
     "editorLineNumber.foreground": "#b3b2b18c",
     "editorLineNumber.activeForeground": "#ffc410",
+	// 
+	// Cursor
+	// 
     "editorCursor.foreground": "#ffc410",
     "editorCursor.background": "#ffffff",
+	// 
+	// selection
+	// 
     "editor.selectionBackground": "#264f78",
     "editor.inactiveSelectionBackground": "#3a3d41",
-    "editorWhitespace.foreground": "#ffffff6e",
-    "editor.selectionHighlightBackground": "#0080ff26",
-    "editor.selectionHighlightBorder": "#ffc41080",
+    "editor.selectionHighlightBackground": "#193549",
+    "editor.selectionHighlightBorder": "#ffc31000",
+	// 
+	// Find Match
+	// 
     "editor.findMatchBackground": "#ffc41034",
     "editor.findMatchBorder": "#5e5e5e",
     "editor.findMatchHighlightBackground": "#ffc4103e",
     "editor.findMatchHighlightBorder": "#b82b2b00",
+	// 
+	// Find Range
+	// 
     "editor.findRangeHighlightBackground": "#1d2b3f66",
     "editor.findRangeHighlightBorder": "#ffffff00",
     "editor.rangeHighlightBackground": "#091f2f",
@@ -33,8 +49,6 @@
     "editor.hoverHighlightBackground": "#0b3a68e7",
     "editor.wordHighlightStrongBackground": "#004972b8",
     "editor.wordHighlightBackground": "#575757b8",
-    "editor.lineHighlightBackground": "#193549",
-    "editor.lineHighlightBorder": "#282828",
     "editorLink.activeForeground": "#4e94ce",
     "editorIndentGuide.background": "#404040",
     "editorIndentGuide.activeBackground": "#707070",
@@ -196,7 +210,7 @@
     "terminal.ansiWhite": "#e5e5e5",
     "terminal.ansiYellow": "#e5e510",
     // 
-    // 
+    // Breadcrumb
     // 
     "breadcrumb.background": "#193549",
     "breadcrumb.foreground": "#cccccccc",
@@ -206,11 +220,11 @@
     // Tabs
     // 
     "editorGroupHeader.tabsBackground": "#091f2f",
-    "tab.border": "#ffc31056",
+    "tab.border": "#ffffff00",
     "tab.activeForeground": "#ffc410",
-    "tab.activeBackground": "#193549",
-    "tab.activeBorder": "#ffc410",
-    "tab.activeBorderTop": "#00000000",
+    "tab.activeBackground": "#193549",	
+    "tab.activeBorder": "#ffc31000",
+    "tab.activeBorderTop": "#ffc410",
     "tab.inactiveBackground": "#091f2f",
     "tab.inactiveForeground": "#ffffff80",
     // 
@@ -267,6 +281,9 @@
     "editorHoverWidget.foreground": "#cccccc",
     "editorHoverWidget.background": "#252526",
     "editorHoverWidget.border": "#454545",
+	// 
+	// PeekView
+	// 
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#001f33",
     "peekViewEditorGutter.background": "#001f33",
@@ -281,13 +298,21 @@
     "peekViewTitle.background": "#1e1e1e",
     "peekViewTitleDescription.foreground": "#ccccccb3",
     "peekViewTitleLabel.foreground": "#ffffff",
-    "icon.foreground": "#ffffff",
+	// 
+	// CheckBox
+	// 
     "checkbox.background": "#3c3c3c",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#00000000",
+	// 
+	// Dropdown
+	// 
     "dropdown.background": "#3c3c3c",
     "dropdown.foreground": "#cccccc",
     "dropdown.border": "#00000000",
+	// 
+	// Minimap
+	// 
     "minimapGutter.addedBackground": "#587c0c",
     "minimapGutter.modifiedBackground": "#0c7d9d",
     "minimapGutter.deletedBackground": "#94151b",
@@ -419,7 +444,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ff0077"
+				"foreground": "#00ffff"
 			}
 		},
 		{
@@ -476,7 +501,16 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ff7e34"
+				"foreground": "#f5ae3b"
+			}
+		},
+		{
+			"name": "Css",
+			"scope": [
+				"support.constant"
+			],
+			"settings": {
+				"foreground": "#fdfa66"
 			}
 		},
 		{
@@ -600,7 +634,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#00fff2"
+				"foreground": "#ffc410"
 			}
 		},
 		{
