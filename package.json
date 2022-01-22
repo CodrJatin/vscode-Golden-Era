@@ -16,7 +16,7 @@
         "Themes",
         "Other"
     ],
-    "icon": "images/logo.jpg",
+    "icon": "images/logo.png",
     "contributes": {
         "themes": [
             {
