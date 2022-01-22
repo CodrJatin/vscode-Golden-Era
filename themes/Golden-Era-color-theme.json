@@ -147,9 +147,6 @@
     "inputOption.activeForeground": "#ffffffd7",
     "input.placeholderForeground": "#a6a6a6",
     "textLink.foreground": "#3794ff",
-    // 
-    // Editor Notification
-    // 
     "editorError.foreground": "#ff0000",
     "editorError.background": "#B73A3400",
     "editorError.border": "#ffffff00",
@@ -244,14 +241,17 @@
     "pickerGroup.foreground": "#3794ff",
     "debugToolBar.background": "#333333",
     "debugToolBar.border": "#474747",
+	// 
+	// Notification
+	// 
     "notifications.foreground": "#cccccc",
-    "notifications.background": "#252526",
+    "notifications.background": "#193549",
     "notificationToast.border": "#474747",
-    "notificationsErrorIcon.foreground": "#f48771",
-    "notificationsWarningIcon.foreground": "#cca700",
-    "notificationsInfoIcon.foreground": "#75beff",
-    "notificationCenter.border": "#474747",
-    "notificationCenterHeader.foreground": "#cccccc",
+    "notificationsErrorIcon.foreground": "#ff0000",
+    "notificationsWarningIcon.foreground": "#FFC410",
+    "notificationsInfoIcon.foreground": "#00FFFF",
+    "notificationCenter.border": "#FFC410",
+    "notificationCenterHeader.foreground": "#FFC410",
     "notificationCenterHeader.background": "#303031",
     "notifications.border": "#303031",
     "gitDecoration.addedResourceForeground": "#81b88b",
