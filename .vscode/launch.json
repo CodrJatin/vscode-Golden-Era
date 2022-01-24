@@ -3,13 +3,13 @@
 // Hover to view descriptions of existing attributes.
 // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
 {
-	"version": "0.4.2",
+    "version": "0.4.3",
     "configurations": [
         {
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
-            "repository":{
+            "repository": {
                 "type": "git",
                 "url": "https://github.com/Codr-J/Golden-Era.git",
             },
@@ -18,8 +18,8 @@
             ],
         }
     ],
-    "keywords":[
-        "Theme", 
+    "keywords": [
+        "Theme",
         "Dark theme",
         "Golden",
         "Golden theme",
