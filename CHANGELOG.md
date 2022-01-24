@@ -5,6 +5,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## <i>Releases</i>
 
+
+---
+>*January 24, 2022*
+
+- version 0.4.3 has been *released*
+- changed editor's gutter background color
+## <div align="center"><i>-->Go and grab this version of [Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)<--</i></div>
+---
+
 ---
 >*January 22, 2022*
 
