@@ -39,12 +39,30 @@
 <br>
 </div>
 
+# Recommends
+- Font [Space mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
+- Product icon theme [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
+
 # Installation
 
-1. Open  *Extensions* from the Activity Bar  in VS Code. `View → Extensions`
-2. Search for `Golden Era`, choose "Golden Era Theme" by *Codr Jatin*
-3. Click *Install*
-4. Navigate to File > Preferences > Color Theme >`Golden Era`
+1. From VS Code
+- Open  *Extensions* from the Activity Bar  in VS Code. `View → Extensions`
+- Search for `Golden Era`, choose "Golden Era Theme" by *Codr Jatin*
+- Click *Install*
+- Navigate to File > Preferences > Color Theme >`Golden Era`
+
+2. From Marketplace
+- Open [marketplace](https://marketplace.visualstudio.com)
+- Select Visual Studio Code
+- Search for CodrJatin.golden-era
+- Click [Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)
+- Click *Install*
+
+3. From VS Code
+- Launch VS Code 
+- Quick Open (Ctrl + P)
+- Paste the following command and press enter
+- ext install CodrJatin.golden-era
 
 <br>
 
