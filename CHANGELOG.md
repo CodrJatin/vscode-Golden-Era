@@ -1,15 +1,11 @@
-<!-- All notable changes to the "golden-era" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
-
-
-## <i>Releases</i>
+# <div align="center"><b>---Golden Era---</b></div>
+## <div align="center"><i>Releases</i></div>
 
 ---
 >*January 25, 2022*
 
 - version 0.5.0 has been *released*
-- added new italic theme option
+- added bold and italic style
 - corrected editor's widget background and border color
 - changed peekview color to more highlighted
 ## <div align="center"><i>-->Go and grab this version of [Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)<--</i></div>
