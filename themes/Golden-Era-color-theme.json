@@ -7,9 +7,7 @@
 		// 
 		"foreground": "#fff",
 		"editor.foreground": "#ffffff",
-		// "editor.background": "#193549",
 		"editor.background": "#052842",
-		// "editor.background": "#091f2f",
 		"focusBorder": "#ffc410",
 		"selection.background": "#68b1ff72",
 		"icon.foreground": "#ffc410",
@@ -22,7 +20,7 @@
 		// 
 		"editorLineNumber.foreground": "#b3b2b18c",
 		"editorLineNumber.activeForeground": "#ffc410",
-		"editorGutter.background": "#091f2f", // line number background
+		"editorGutter.background": "#052842", // line number background
 		// 
 		// Cursor
 		// 
@@ -104,6 +102,7 @@
 		// 
 		"statusBar.foreground": "#ffc410",
 		"statusBar.background": "#091f2f",
+		"statusBarItem.activeBackground": "#FFFFFF25",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		"statusBar.debuggingBackground": "#bb8a04",
 		"statusBar.debuggingForeground": "#ffffff",
@@ -184,7 +183,7 @@
 		// 
 		// Badge
 		// 
-		"badge.background": "#4d4d4d",
+		"badge.background": "#193549",
 		"badge.foreground": "#ffc410",
 		// 
 		// Terminal
@@ -258,6 +257,9 @@
 		"notificationCenterHeader.foreground": "#FFC410",
 		"notificationCenterHeader.background": "#303031",
 		"notifications.border": "#303031",
+		// 
+		// Git
+		// 
 		"gitDecoration.addedResourceForeground": "#81b88b",
 		"gitDecoration.conflictingResourceForeground": "#6c6cc4",
 		"gitDecoration.deletedResourceForeground": "#c74e39",
@@ -267,24 +269,36 @@
 		"gitDecoration.stageModifiedResourceForeground": "#e2c08d",
 		"gitDecoration.submoduleResourceForeground": "#8db9e2",
 		"gitDecoration.untrackedResourceForeground": "#73c991",
+		// 
+		// editor marker navigation
+		// 
 		"editorMarkerNavigation.background": "#2d2d30",
 		"editorMarkerNavigationError.background": "#f48771",
 		"editorMarkerNavigationWarning.background": "#cca700",
 		"editorMarkerNavigationInfo.background": "#75beff",
+		// 
+		// merge
+		// 
 		"merge.currentHeaderBackground": "#367366",
 		"merge.currentContentBackground": "#27403B",
 		"merge.incomingHeaderBackground": "#395F8F",
 		"merge.incomingContentBackground": "#28384B",
 		"merge.commonHeaderBackground": "#383838",
 		"merge.commonContentBackground": "#282828",
-		"editorSuggestWidget.background": "#252526",
+		// 
+		// editor suggest widget
+		// 
+		"editorSuggestWidget.background": "#091f2f",
 		"editorSuggestWidget.border": "#454545",
 		"editorSuggestWidget.foreground": "#d4d4d4",
 		"editorSuggestWidget.highlightForeground": "#0097fb",
 		"editorSuggestWidget.selectedBackground": "#062f4a",
+		// 
+		// editor hover widget
+		// 
 		"editorHoverWidget.foreground": "#cccccc",
-		"editorHoverWidget.background": "#252526",
-		"editorHoverWidget.border": "#454545",
+		"editorHoverWidget.background": "#193549",
+		"editorHoverWidget.border": "#ffc3103b",
 		// 
 		// PeekView
 		// 
@@ -327,7 +341,6 @@
 		"minimap.background": "#193549",
 		"editorGroup.emptyBackground": "#193549",
 		"panelSection.border": "#80808059",
-		"statusBarItem.activeBackground": "#FFFFFF25",
 		"settings.headerForeground": "#ffffff",
 		"settings.focusedRowBackground": "#ffffff07",
 		"walkThrough.embeddedEditorBackground": "#00000050",
@@ -642,7 +655,8 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#ff4e4e"
+				"foreground": "#ff4e4e",
+				"fontStyle": "italic"
 			}
 		},
 		{
