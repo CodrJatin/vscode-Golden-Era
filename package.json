@@ -16,7 +16,7 @@
         "Themes",
         "Other"
     ],
-    "icon": "https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/logo.png",
+    "icon": "images/logo.png",
     "contributes": {
         "themes": [
             {
