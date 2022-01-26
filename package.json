@@ -2,7 +2,7 @@
     "name": "golden-era",
     "displayName": "Golden Era",
     "description": "A Great theme for Developers and Programmers",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "license": "MIT",
     "publisher": "CodrJatin",
     "author": {
@@ -16,7 +16,7 @@
         "Themes",
         "Other"
     ],
-    "icon": "images/logo.png",
+    "icon": "https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/logo.png",
     "contributes": {
         "themes": [
             {
