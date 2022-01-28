@@ -2,7 +2,7 @@
     "name": "golden-era",
     "displayName": "Golden Era",
     "description": "A Great theme for Developers and Programmers",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "license": "MIT",
     "publisher": "CodrJatin",
     "author": {
@@ -31,7 +31,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Codr-J/Golden-Era.git"
+        "url": "https://github.com/CodrJatin/Golden-Era.git"
     },
     "homepage": "",
     "keywords": [

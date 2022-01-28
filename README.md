@@ -3,7 +3,7 @@
 # --Golden Era--
 
 
-<img src="https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/logo.png" height="190px" width="190px" style="border-radius:50%;">
+<img src="https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/logo.png" height="190px" width="190px">
 <br>
 <br>
 
@@ -15,23 +15,23 @@
 
 > *Preview images*
 
-![Preview](https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/pre1.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre1.png)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/pre2.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre2.png)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/pre3.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre3.png)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/pre4.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre4.png)
 
 <br>
 
-![Preview](https://raw.githubusercontent.com/Codr-J/Golden-Era/master/images/pre5.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre5.png)
 
 <br>
 
@@ -54,21 +54,21 @@
 2. From Marketplace
 - Open [marketplace](https://marketplace.visualstudio.com)
 - Select Visual Studio Code
-- Search for CodrJatin.golden-era
+- Search for `CodrJatin.golden-era`
 - Click [Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)
 - Click *Install*
 
 3. From VS Code
 - Launch VS Code 
-- Quick Open (Ctrl + P)
+- Quick Open (`Ctrl + P`)
 - Paste the following command and press enter
-- ext install CodrJatin.golden-era
+- `ext install CodrJatin.golden-era`
 
 <br>
 
 ## Author
 
-[Codr Jatin](https://github.com/Codr-J) 
+[Codr Jatin](https://github.com/CodrJatin) 
 
 <br>
 
