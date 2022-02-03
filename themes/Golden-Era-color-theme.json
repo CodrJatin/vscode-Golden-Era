@@ -8,10 +8,10 @@
 		"foreground": "#fff",
 		"editor.foreground": "#fff",
 		"editor.background": "#052842",
-		"focusBorder": "#ffc410",
+		"focusBorder": "#e7d6a1",
 		"icon.foreground": "#ffc410",
-		"editor.lineHighlightBackground": "#193549",
-		"editor.lineHighlightBorder": "#193549",
+		"editor.lineHighlightBackground": "#091f2f",
+		"editor.lineHighlightBorder": "#091f2f",
 		"editorWhitespace.foreground": "#ffffff31",
 		"progressBar.background": "#ffc410",
 		// 
@@ -39,8 +39,8 @@
 		"selection.background": "#68b1ff72",
 		"editor.selectionBackground": "#264f78",
 		"editor.inactiveSelectionBackground": "#3a3d41",
-		"editor.selectionHighlightBackground": "#193549",
-		"editor.selectionHighlightBorder": "#ffc31000",
+		"editor.selectionHighlightBackground": "#0c3e61",
+		"editor.selectionHighlightBorder": "#ffc3103b",
 		// 
 		// Find Match
 		// 
