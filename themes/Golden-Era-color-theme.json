@@ -1,5 +1,5 @@
 {
-	"name": "Golden Era ^0.5.3",
+	"name": "Golden Era ^0.5.4",
 	"type": "dark",
 	"colors": {
 		// 
@@ -8,7 +8,8 @@
 		"foreground": "#fff",
 		"editor.foreground": "#fff",
 		"editor.background": "#052842",
-		"focusBorder": "#e7d6a1",
+		// "focusBorder": "#e7d6a1",
+		"focusBorder": "#ffc410",
 		"icon.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
 		"editor.lineHighlightBorder": "#091f2f",
@@ -260,16 +261,16 @@
 		// 
 		// Scrollbar 
 		// 
-		"scrollbarSlider.background": "#ffc31071",
-		"scrollbarSlider.hoverBackground": "#ffc310a2",
+		"scrollbarSlider.background": "#ffc31048",
+		"scrollbarSlider.hoverBackground": "#ffc3107c",
 		"scrollbarSlider.activeBackground": "#ffc310c5",
-		"scrollbar.shadow": "#091f2f",
+		"scrollbar.shadow": "#ffc410",
 		// 
 		// widget
 		// 
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#cccccc",
-		"editorWidget.background": "#091f2f",
+		"editorWidget.background": "#091f2f9a",
 		"editorWidget.resizeBorder": "#5F5F5F",
 		// 
 		// picker group
