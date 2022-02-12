@@ -1,5 +1,5 @@
 {
-	"name": "Golden Era ^0.5.4",
+	"name": "Golden Era ^0.5.5",
 	"type": "dark",
 	"colors": {
 		// 
@@ -68,8 +68,8 @@
 		// 
 		// editor indent guide
 		// 
-		"editorIndentGuide.background": "#404040",
-		"editorIndentGuide.activeBackground": "#707070",
+		"editorIndentGuide.background": "#264f78",
+		"editorIndentGuide.activeBackground": "#0064001a",
 		// 
 		// editor fold background
 		// 
@@ -82,7 +82,7 @@
 		// 
 		// editor ruler 
 		// 
-		"editorRuler.foreground": "#5a5a5a",
+		"editorRuler.foreground": "#ccc",
 		"editorOverviewRuler.background": "#25252500",
 		"editorOverviewRuler.border": "#7f7f7f4d",
 		// 
@@ -115,7 +115,8 @@
 		"list.hoverForeground": "#ffc410cf",
 		"list.activeSelectionBackground": "#193549",
 		"list.activeSelectionForeground": "#ffc410",
-		"list.dropBackground": "#091f2f",
+		// "list.dropBackground": "#091f2f",
+		"list.dropBackground": "#ffc410",
 		"list.highlightForeground": "#0097fb",
 		"list.focusBackground": "#062f4a",
 		"list.focusForeground": "#cccccc",
@@ -171,7 +172,7 @@
 		"input.background": "#193549",
 		"input.border": "#ffc410",
 		"input.foreground": "#ffffffd7",
-		"inputOption.activeBackground": "#091f2f",
+		"inputOption.activeBackground": "#091f2f73",
 		"inputOption.activeBorder": "#ffc410",
 		"inputOption.activeForeground": "#ffffffd7",
 		"input.placeholderForeground": "#a6a6a6",
@@ -232,7 +233,7 @@
 		"terminal.ansiBrightGreen": "#23d18b",
 		"terminal.ansiBrightMagenta": "#d670d6",
 		"terminal.ansiBrightRed": "#f14c4c",
-		"terminal.ansiBrightWhite": "#e5e5e5",
+		"terminal.ansiBrightWhite": "#fafafa",
 		"terminal.ansiBrightYellow": "#f5f543",
 		"terminal.ansiCyan": "#11a8cd",
 		"terminal.ansiGreen": "#0dbc79",
@@ -275,7 +276,7 @@
 		// 
 		// picker group
 		// 
-		"pickerGroup.border": "#3f3f46",
+		"pickerGroup.border": "#ffc31050",
 		"pickerGroup.foreground": "#3794ff",
 		// 
 		// debug
@@ -284,6 +285,11 @@
 		"debugToolBar.border": "#474747",
 		"debugExceptionWidget.background": "#333333",
 		"debugExceptionWidget.border": "#474747",
+		// debug icon
+		"debugIcon.pauseForeground": "#00ffff",
+		"debugIcon.startForeground": "#ff8800",
+		"debugIcon.restartForeground": "#1eff00",
+		"debugIcon.stopForeground": "#ff0000",
 		// 
 		// Notification
 		// 
@@ -328,7 +334,7 @@
 		// 
 		// editor suggest widget
 		// 
-		"editorSuggestWidget.background": "#091f2f",
+		"editorSuggestWidget.background": "#091f2fb4",
 		"editorSuggestWidget.border": "#454545",
 		"editorSuggestWidget.foreground": "#d4d4d4",
 		"editorSuggestWidget.highlightForeground": "#0097fb",
@@ -337,12 +343,12 @@
 		// editor hover widget
 		// 
 		"editorHoverWidget.foreground": "#cccccc",
-		"editorHoverWidget.background": "#193549",
+		"editorHoverWidget.background": "#19354975",
 		"editorHoverWidget.border": "#ffc3103b",
 		// 
 		// PeekView
 		// 
-		"peekView.border": "#007acc",
+		"peekView.border": "#ffc410",
 		"peekViewEditor.background": "#001f33",
 		"peekViewEditorGutter.background": "#001f33",
 		"peekViewEditor.matchHighlightBackground": "#ff8f0099",

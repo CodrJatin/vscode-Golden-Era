@@ -7,16 +7,17 @@
 <br>
 <br>
 
-> *Great Theme For Developer's*
+> *A Great theme for Developers and Programmers*
 
 </div>
 
 <br>
 
 > *Preview images*
-
+---
 ![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre1.png)
 
+---
 <br>
 
 ![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre2.png)
@@ -35,13 +36,8 @@
 
 <br>
 
-  ---
 <br>
 </div>
-
-# Recommends
-- Font [Space mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
-- Product icon theme [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 
 # Installation
 
@@ -66,14 +62,21 @@
 
 <br>
 
-## Author
+# Recommends
+- Font-family [Space mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
+- Product icon theme [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 
-[Codr Jatin](https://github.com/CodrJatin) 
-
+# Author
 <br>
 
+## [Codr Jatin](https://github.com/CodrJatin)
 <br>
 
-*Copyright (c) 2022 Codr Jatin*
+---
+<div align = "center">
 
------
+*Copyright &copy; 2022 Codr Jatin*
+
+</div>
+
+---
