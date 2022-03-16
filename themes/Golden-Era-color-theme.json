@@ -8,7 +8,6 @@
 		"foreground": "#fff",
 		"editor.foreground": "#fff",
 		"editor.background": "#052842",
-		// "focusBorder": "#e7d6a1",
 		"focusBorder": "#ffc410",
 		"icon.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
