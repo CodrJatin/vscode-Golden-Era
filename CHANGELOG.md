@@ -7,14 +7,14 @@
 > _February 12, 2022_
 
 - version `0.5.5` has been released.
-- changed `"editorSuggestWidget.background": "#091f2fb4"`
-- changed `"editorHoverWidget.background": "#19354975"`
-- changed `"inputOption.activeBackground": "#091f2f73"`
-- changed `"debugIcon.pauseForeground": "#00ffff"`
-- changed `"debugIcon.startForeground": "#ff8800"`
-- changed `"debugIcon.restartForeground": "#1eff00"`
-- changed `"debugIcon.stopForeground": "#ff0000"`
-
+- changed `"editorSuggestWidget.background"`
+- changed `"editorHoverWidget.background"`
+- changed `"inputOption.activeBackground"`
+- changed `"debugIcon.pauseForeground"`
+- changed `"debugIcon.startForeground"`
+- changed `"debugIcon.restartForeground"`
+- changed `"debugIcon.stopForeground"`
+- added `"activityBar.border"`
 ## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
 
 ---
@@ -24,9 +24,9 @@
 > _February 05, 2022_
 
 - version `0.5.4` has been released.
-- changed `"editorWidget.background": "#091f2f9a"`
-- changed `"scrollbar.shadow": "#ffc410"`
-- changed `"editorSuggestWidget.background": "#091f2fb4"`
+- changed `"editorWidget.background"`
+- changed `"scrollbar.shadow"`
+- changed `"editorSuggestWidget.background"`
 
 ## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
 

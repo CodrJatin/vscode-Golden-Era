@@ -1,5 +1,5 @@
 {
-	"name": "Golden Era ^0.5.5",
+	"name": "Golden Era ^0.5.6",
 	"type": "dark",
 	"colors": {
 		// 
@@ -21,7 +21,7 @@
 		"editorLineNumber.foreground": "#b3b2b18c",
 		"editorLineNumber.activeForeground": "#ffc410",
 		// 
-		// editor gutter (line number)
+		// editor gutter (line number bar background)
 		// 
 		"editorGutter.background": "#052842",
 		"editorGutter.modifiedBackground": "#00ffff",
@@ -94,7 +94,7 @@
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBarBadge.background": "#ffc410",
 		"activityBar.activeBackground": "#193549",
-		"activityBar.border": "#ffc31000",
+		"activityBar.border": "#ffc410",
 		// 
 		// Side Bar
 		// 
@@ -130,7 +130,8 @@
 		"statusBar.background": "#091f2f",
 		"statusBarItem.activeBackground": "#FFFFFF25",
 		"statusBarItem.hoverBackground": "#ffffff1f",
-		"statusBar.debuggingBackground": "#bb8a04",
+		// "statusBar.debuggingBackground": "#bb8a04",
+		"statusBar.debuggingBackground": "#00ffff",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.noFolderBackground": "#091f2f",
 		"statusBar.noFolderForeground": "#ffc410",
@@ -343,7 +344,7 @@
 		// editor hover widget
 		// 
 		"editorHoverWidget.foreground": "#cccccc",
-		"editorHoverWidget.background": "#19354975",
+		"editorHoverWidget.background": "#193549d5",
 		"editorHoverWidget.border": "#ffc3103b",
 		// 
 		// PeekView
