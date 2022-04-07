@@ -1,6 +1,24 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+    *{
+        font-family:"poppins";
+    }
+</style>
 # <div align="center"><b>-- Golden Era --</b></div>
 
-## <div align="center"><i>Releases</i></div>
+## <div align="center">All Releases</div>
+
+---
+
+> _April 7, 2022_
+
+- version `0.5.7` has been released.
+- changed `Extension's Logo and Icon`
+- changed `status bar debug background`
+- changed `status bar debug foreground`
+## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
+
+---
 
 ---
 

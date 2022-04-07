@@ -130,8 +130,8 @@
 		"statusBarItem.activeBackground": "#FFFFFF25",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		// "statusBar.debuggingBackground": "#bb8a04",
-		"statusBar.debuggingBackground": "#00ffff",
-		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.debuggingBackground": "#091f2f",
+		"statusBar.debuggingForeground": "#ffc410",
 		"statusBar.noFolderBackground": "#091f2f",
 		"statusBar.noFolderForeground": "#ffc410",
 		"statusBarItem.remoteBackground": "#00ffff",
@@ -143,8 +143,8 @@
 		"titleBar.activeForeground": "#ccc",
 		"titleBar.activeBackground": "#193549",
 		"titleBar.inactiveForeground": "#cccccc99",
-		"titleBar.inactiveBackground": "#091f2f",
-		"titleBar.border": "#ffc31000",
+		"titleBar.inactiveBackground": "#193549",
+		"titleBar.border": "#091f2f00",
 		// 
 		// Menubar
 		// 
@@ -439,7 +439,7 @@
 			"name": "String constant",
 			"scope": [
 				// "variable",
-				// "variable.other.readwrite",
+				// "variable.other.readWrite",
 				"string constant.other.placeholder"
 			],
 			"settings": {
