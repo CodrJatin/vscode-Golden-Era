@@ -1,51 +1,69 @@
 {
-    "name": "golden-era",
-    "displayName": "Golden Era",
-    "description": "Great theme for Developers and Programmers",
-    "version": "0.5.8",
-    "license": "MIT",
-    "publisher": "CodrJatin",
-    "author": {
-        "name": "Codr Jatin",
-        "email": "jatinpersonalid@gmail.com"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "icon": "images/logo.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Golden Era",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Golden-Era-color-theme.json"
-            }
-        ]
-    },
-    "bugs": {
-        "email": "jatinpersonalid@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/CodrJatin/Golden-Era.git"
-    },
-    "homepage": "",
-    "keywords": [
-        "themes",
-        "vs code theme",
-        "dark theme",
-        "dark",
-        "Golden",
-        "golden era",
-        "gold",
-        "era",
-        "theme",
-        "new theme",
-        "color theme",
-        "popular theme"
+  "name": "golden-era",
+  "displayName": "Golden Era",
+  "description": "Great theme for Developers and Programmers",
+  "version": "0.5.9",
+  "license": "MIT",
+  "publisher": "CodrJatin",
+  "author": {
+    "name": "Codr Jatin",
+    "email": "jatinpersonalid@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "icon": "images/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Golden Era",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Golden-Era-color-theme.json"
+      }
     ]
+  },
+  "bugs": {
+    "email": "jatinpersonalid@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodrJatin/Golden-Era.git"
+  },
+  "homepage": "",
+  "keywords": [
+    "themes",
+    "vs code theme",
+    "dark theme",
+    "dark",
+    "Golden",
+    "golden era",
+    "gold",
+    "era",
+    "theme",
+    "new theme",
+    "color theme",
+    "popular theme"
+  ],
+  "galleryBanner": {
+    "color": "#052842",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Golden Era",
+        "path": "./themes/Golden-Era-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Golden Era (Italic)",
+        "path": "./themes/Golden-Era-color-theme-Italic.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  }
 }

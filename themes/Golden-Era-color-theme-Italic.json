@@ -1,5 +1,5 @@
 {
-	"name": "Golden Era ^0.5.8",
+	"name": "Golden Era ^0.5.9",
 	"type": "dark",
 	"colors": {
 		// 
@@ -421,7 +421,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#838383"
 			}
 		},
@@ -688,7 +688,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#FF5370"
 			}
 		},
@@ -698,7 +698,7 @@
 				"entity.name.method.js"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#fdff82"
 			}
 		},
@@ -719,7 +719,7 @@
 			],
 			"settings": {
 				"foreground": "#ff4e4e",
-				"fontStyle": "",
+				"fontStyle": "italic",
 			}
 		},
 		{
@@ -729,7 +729,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#FFCB6B"
 			}
 		},
@@ -814,7 +814,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -824,7 +824,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#FF5370"
 			}
 		},

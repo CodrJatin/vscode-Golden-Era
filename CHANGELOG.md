@@ -4,6 +4,16 @@
 
 ---
 
+> _April 12, 2022_
+
+- version `0.5.9` has been released.
+- `--- Golden Era theme now with italic option ----`
+## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
+
+---
+
+---
+
 > _April 7, 2022_
 
 - version `0.5.7` has been released.
