@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/logo.png" height="190px" width="190px" style="border-radius:100%;">
+<img src="https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/logo.png" height="190px" width="190px">
 <br>
 
 
