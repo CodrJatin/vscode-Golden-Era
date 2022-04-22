@@ -5,7 +5,7 @@
 
 <br>
 
-> *A Great theme for Developers and Programmers*
+> *Great theme for Developers and Programmers*
 
 </div>
 
@@ -82,7 +82,7 @@
 <br>
 
 # Recommends
-- Font-family [Space mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
+- Font-family [Fira Code](https://fonts.google.com/specimen/Fira+Code?query=fira+code)
 - Product icon theme [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)
 
 # Author

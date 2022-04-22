@@ -2,7 +2,7 @@
   "name": "golden-era",
   "displayName": "Golden Era",
   "description": "Great theme for Developers and Programmers",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "license": "MIT",
   "publisher": "CodrJatin",
   "author": {
@@ -23,17 +23,26 @@
         "label": "Golden Era",
         "uiTheme": "vs-dark",
         "path": "./themes/Golden-Era-color-theme.json"
+      },
+      {
+        "label": "Golden Era (Italic)",
+        "path": "./themes/Golden-Era-color-theme-Italic.json",
+        "uiTheme": "vs-dark"
       }
     ]
+  },
+  "galleryBanner": {
+    "color": "#052842",
+    "theme": "dark"
   },
   "bugs": {
     "email": "jatinpersonalid@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodrJatin/Golden-Era.git"
+    "url": "https://github.com/CodrJatin/vscode-Golden-Era.git"
   },
-  "homepage": "",
+  "homepage": "README.md",
   "keywords": [
     "themes",
     "vs code theme",
@@ -47,23 +56,5 @@
     "new theme",
     "color theme",
     "popular theme"
-  ],
-  "galleryBanner": {
-    "color": "#052842",
-    "theme": "dark"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Golden Era",
-        "path": "./themes/Golden-Era-color-theme.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Golden Era (Italic)",
-        "path": "./themes/Golden-Era-color-theme-Italic.json",
-        "uiTheme": "vs-dark"
-      }
-    ]
-  }
+  ]
 }

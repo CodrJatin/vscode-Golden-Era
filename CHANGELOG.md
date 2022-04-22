@@ -1,6 +1,18 @@
 # <div align="center"><b>-- Golden Era --</b></div>
 
-## <div align="center">All Releases</div>
+## <div align="center">Releases</div>
+
+---
+
+> _April 12, 2022_
+
+- version `0.5.10` has been released.
+- changed colors of `JSON Key levels`
+- changed `CSS property color`
+- changed `focus border color`
+## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
+
+---
 
 ---
 
@@ -59,9 +71,9 @@
 > _January 25, 2022_
 
 - version `0.5.0` has been released.
-- added bold and italic style
-- corrected editor's widget background and border color
-- changed peekView color to more highlighted
+- added `bold` and `italic` style
+- changed `editor's widget background` and `border color`
+- changed `peekView color`
 
 ## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
 
@@ -72,7 +84,7 @@
 > _January 24, 2022_
 
 - version `0.4.3` has been released.
-- changed editor's gutter background color to match editor's background color
+- changed `editor's gutter background color` to match `editor's background color`
 
 ## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
 
@@ -83,8 +95,8 @@
 > _January 22, 2022_
 
 - version `0.4.2` has been released.
-- removed extra _border_
-- changed editor _background_
+- removed _extra border_
+- changed _editor background_
 
 ## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
 

@@ -1,5 +1,5 @@
 {
-    "version": "0.5.9",
+    "version": "0.5.10",
     "configurations": [
         {
             "name": "Extension",
@@ -7,7 +7,7 @@
             "request": "launch",
             "repository": {
                 "type": "git",
-                "url": "https://github.com/CodrJatin/Golden-Era.git",
+                "url": "https://github.com/CodrJatin/vscode-Golden-Era.git",
             },
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
