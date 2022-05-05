@@ -4,6 +4,17 @@
 
 ---
 
+> _May 5, 2022_
+
+- version `0.5.11` has been released.
+- changed extension Logo.
+- changed `focus border color`
+## <div align="center">--> Go and grab <b>[Golden Era](https://marketplace.visualstudio.com/items?itemName=CodrJatin.golden-era)</b> <--</div>
+
+---
+
+---
+
 > _April 12, 2022_
 
 - version `0.5.10` has been released.

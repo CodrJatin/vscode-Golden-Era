@@ -8,7 +8,7 @@
 		"foreground": "#fff",
 		"editor.foreground": "#fff",
 		"editor.background": "#052842",
-		"focusBorder": "#ffc31000",
+		"focusBorder": "#ffc410",
 		"icon.foreground": "#ffc410",
 		"editor.lineHighlightBackground": "#091f2f",
 		"editor.lineHighlightBorder": "#091f2f",
@@ -199,7 +199,7 @@
 		// Diff
 		// 
 		"diffEditor.insertedTextBackground": "#9bb95533",
-		"diffEditor.removedTextBackground": "#ff000033",
+		"diffEditor.removedTextBackground": "#f2bcbc33",
 		"diffEditor.border": "#ffc410",
 		// 
 		// Panel
