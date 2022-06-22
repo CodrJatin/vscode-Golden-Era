@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/logo.png" height="190px" width="190px">
+<img src="https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/logo.png" height="190px" width="190px">
 <br>
 
 
@@ -17,7 +17,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre1.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/pre1.png)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre2.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/pre2.png)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre3.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/pre3.png)
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre4.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/pre4.png)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-![Preview](https://raw.githubusercontent.com/CodrJatin/Golden-Era/master/images/pre5.png)
+![Preview](https://raw.githubusercontent.com/CodrJatin/vscode-Golden-Era/master/images/pre5.png)
 
 ---
 
